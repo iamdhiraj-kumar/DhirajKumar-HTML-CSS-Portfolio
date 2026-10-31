@@ -1,7 +1,9 @@
 # Dhiraj Kumar | Personal Portfolio
 
 A responsive personal portfolio website built using HTML5 and CSS3 as part of my HTML & CSS internship project.
-Preview-https://iamdhiraj-kumar.github.io/DhirajKumar-HTML-CSS-Portfolio/
+
+# Preview 
+-https://iamdhiraj-kumar.github.io/DhirajKumar-HTML-CSS-Portfolio/
 
 ## About the Project
 This website introduces me as a BCA student interested in web development and data analytics. It includes a home section, about me, technical skills, academic projects, and contact information.
